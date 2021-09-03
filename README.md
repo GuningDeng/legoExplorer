@@ -3,7 +3,7 @@ Een kleine app ontwikkeld door 'react-native-expo' om een deel van de functies v
 
 **Realisatie:**  
 + CRUD  
-+ Componenten van 'Minifigs', 'Sets', 'Favorite' en 'detail'  
++ Componenten van 'Minifigs', 'Sets', 'Favorite' en 'Detail'  
 + Weergave van gerelateerde items  
 + Fuzzy search  
 + Favoriete items toevoegen of verwijderen  
